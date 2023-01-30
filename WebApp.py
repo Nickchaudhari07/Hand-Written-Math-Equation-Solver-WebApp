@@ -6,7 +6,7 @@ import cv2
 from PIL import Image
 
 # Loading the saved model
-loaded_model= pickle.load(open('D:/CP2/model.pkl','rb')) 
+loaded_model= pickle.load(open('model.pkl','rb')) 
 
 #creating function for prediction
 #def img_processing(input):

@@ -3,7 +3,6 @@ import numpy as np
 import pickle
 import streamlit as st
 import cv2
-from matplotlib import pyplot as plt
 from PIL import Image
 
 # Loading the saved model

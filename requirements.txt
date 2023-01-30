@@ -1,2 +1,4 @@
 numpy
 opencv-python-headless
+[browser]
+gatherUsageStats = false
